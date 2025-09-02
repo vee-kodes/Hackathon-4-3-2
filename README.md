@@ -40,7 +40,7 @@ Built with **Supabase** for backend + database, **Edge Functions** for business 
 
 ## 🏗️ System Architecture
 
-```mermaid
+```
 flowchart TD
     U[👤 User] --> N[🌐 Netlify (Frontend)]
     N --> S[🗄️ Supabase Database]
